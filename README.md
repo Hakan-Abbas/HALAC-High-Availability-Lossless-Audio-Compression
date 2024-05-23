@@ -5,5 +5,7 @@ I used a quick estimation with ANS(FSE). I don't know if there are other codecs 
 I tried to find the middle way by working with different music genres.
 
 ![sibel_can](https://github.com/Hakan-Abbas/HALAC-High-Availability-Lossless-Audio-Compression-/assets/158841237/acfeeacd-7815-4a25-b1ac-e465c682ebb4)
+
 ![HALAC_0 2 4_MT_BENCHMARK1](https://github.com/Hakan-Abbas/HALAC-High-Availability-Lossless-Audio-Compression-/assets/158841237/23c74e3b-1f90-45ec-9d6e-c43593b2c527)
+
 ![file_structure](https://github.com/Hakan-Abbas/HALAC-High-Availability-Lossless-Audio-Compression/assets/158841237/72f9f5cf-56df-43f0-8ae5-2f5ca4312201)
