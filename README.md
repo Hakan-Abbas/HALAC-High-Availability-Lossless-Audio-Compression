@@ -9,7 +9,9 @@ I tried to find the middle way by working with different music genres.
 ![HALAC_0 2 4_MT_BENCHMARK1](https://github.com/Hakan-Abbas/HALAC-High-Availability-Lossless-Audio-Compression-/assets/158841237/23c74e3b-1f90-45ec-9d6e-c43593b2c527)
 
 HALAC FILE STRUCTURE (0.2.9)
+
 ![halac_file_structure](https://github.com/Hakan-Abbas/HALAC-High-Availability-Lossless-Audio-Compression/assets/158841237/775b101d-d91d-4ba2-8066-bd9ad83bc080)
 
 HALAC FRAME STRUCTURE (0.2.9)
+
 ![halac_frame_structure](https://github.com/Hakan-Abbas/HALAC-High-Availability-Lossless-Audio-Compression/assets/158841237/2a0e24d3-4ff9-472b-868e-be2e32b6faa2)
